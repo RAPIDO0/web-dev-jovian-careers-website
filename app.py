@@ -13,7 +13,7 @@ JOBS = [
         'id': 2,
         'title': 'Data Scientist',
         'location': 'Paris, France',
-        'salary': ' 100 €'
+        'salary': ' 1000000 €'
     },
     {
         'id': 3,
